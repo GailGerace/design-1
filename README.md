@@ -1,11 +1,13 @@
-## 18F Design
+Kitchen Design
+=============
 
-General 18F design issues, discussion, and shared resources/artifacts
 
-### Public domain
 
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
+The kitchen design and style also varies depending on how you build it. There are hundreds of kitchen interior online and as I got the specific project, I used the knowledge in architectural to build a new home out of simple tools. I stumble upon on these quaint sites and would like to share some of the tools. 
 
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+The tools in this category are the Autodesk 123D Design,Tinkercad, 3D Tin, [Aava](http://www.amazon.com/Aava-24-Piece-Flatware-Finnish-Steel/dp/B011VFQZ9C), Blender, FreeCAD and Open SCAD.
+
+Below is an example of a modern kitchen.
+
+![Screenshot of design](https://i.ytimg.com/vi/5ywb6Q2y1_o/maxresdefault.jpg)
+![Screenshot of design](http://img.bhs4.com/74/1/741900e50a85efbd83126aeda3184226f066ea76_large.jpg)
